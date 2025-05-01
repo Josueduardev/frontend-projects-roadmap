@@ -32,7 +32,7 @@ El objetivo principal fue practicar el uso de CSS Grid para construir layouts mo
 --- 
 
 ## 💻 Preview
-<img src="./image/preview.png" alt="Vista previa de la página" height="700" width="700" />
+<img src="./image/preview.png" alt="Vista previa de la página" height="700"/>
 
 ## 🔗 Enlaces
 [https://www.linkedin.com/in/josueduardogarcia/](https://www.linkedin.com/in/josueduardogarcia/)%     

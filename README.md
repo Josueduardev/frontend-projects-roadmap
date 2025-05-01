@@ -13,28 +13,19 @@ Este repositorio contiene proyectos prácticos para fortalecer tus habilidades e
 ---
 
 ## 🖼️ Vista de proyectos
-
-<p align="center">
-  <a href="./01-single-page-CV/" style="text-decoration: none;">
-    <img width="48%" height="400px" src="./01-single-page-CV/image/page.png" alt="Single Page CV"
-      style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2); margin-bottom: 8px;" />
-    <br />
-    <strong>Single Page CV</strong>
+> Haz click en la imagen
+<p align="left">
+  <a href='./01-single-page-CV/'>
+    <img width="48%" src="./assets/images/01-single-page-cv.png" alt="single page cv" style="border-radius: 10px;" />
   </a>
-  <a href="./05-testimonial-cards/" style="text-decoration: none;">
-    <img width="48%" height="400px" src="./05-testimonial-cards/image/preview.png" alt="Testimonial Cards"
-      style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2); margin-bottom: 8px;" />
-    <br />
-    <strong>Testimonial Cards</strong>
+  <a href='./05-testimonial-cards/'>
+    <img width="48%" src="./assets/images/05-testimonials-cards.png" alt="testimonial cards" style="border-radius: 10px;"/>
   </a>
 </p>
 
-<p align="center">
-  <a href="./08-image-grid-layout/" style="text-decoration: none;">
-    <img width="48%" src="./08-image-grid-layout/image/preview.png" alt="Image Grid Layout"
-      style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2); margin-bottom: 8px;" />
-    <br />
-    <strong>Image Grid Layout</strong>
+<p align="left">
+  <a href='./08-image-grid-layout/'>
+    <img width="48%" src="./assets/images/08-image-grid-layout.png" alt="image grid layout" style="border-radius: 10px;" />
   </a>
 </p>
 ---

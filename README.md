@@ -14,20 +14,29 @@ Este repositorio contiene proyectos prácticos para fortalecer tus habilidades e
 
 ## 🖼️ Vista de proyectos
 
-<p align="left">
-  <a href='./01-single-page-CV/'>
-    <img width="48%" height="550px" src="./01-single-page-CV/image/page.png" alt="Single Page CV" />
+<p align="center">
+  <a href="./01-single-page-CV/" style="text-decoration: none;">
+    <img width="48%" height="400px" src="./01-single-page-CV/image/page.png" alt="Single Page CV"
+      style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2); margin-bottom: 8px;" />
+    <br />
+    <strong>Single Page CV</strong>
   </a>
-  <a href='./05-testimonial-cards/'>
-    <img width="48%" height="550px" src="./05-testimonial-cards/image/preview.png" alt="Testimonial Cards" />
-  </a>
-</p>
-<p align="left">
-  <a href='./08-image-grid-layout/'>
-    <img width="48%" src="./08-image-grid-layout/image/preview.png" alt="Image Grid Layout" />
+  <a href="./05-testimonial-cards/" style="text-decoration: none;">
+    <img width="48%" height="400px" src="./05-testimonial-cards/image/preview.png" alt="Testimonial Cards"
+      style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2); margin-bottom: 8px;" />
+    <br />
+    <strong>Testimonial Cards</strong>
   </a>
 </p>
 
+<p align="center">
+  <a href="./08-image-grid-layout/" style="text-decoration: none;">
+    <img width="48%" src="./08-image-grid-layout/image/preview.png" alt="Image Grid Layout"
+      style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2); margin-bottom: 8px;" />
+    <br />
+    <strong>Image Grid Layout</strong>
+  </a>
+</p>
 ---
 
 ## 🛠️ ¿Qué se practicó?
@@ -44,8 +53,7 @@ Este repositorio contiene proyectos prácticos para fortalecer tus habilidades e
 
 1. Clona este repositorio
 2. Abre los archivos `.html` con tu navegador o usa Live Server (VS Code)
-3. Explora, modifica y aprende
 
 ```bash
-git clone https://github.com/tu-usuario/tu-repo.git
-cd nombre-del-repo
+git clone https://github.com/Josueduardev/frontend-projects-roadmap
+cd frontend-projects-roadmap

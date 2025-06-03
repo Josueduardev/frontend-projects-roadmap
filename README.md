@@ -7,6 +7,7 @@ Este repositorio contiene proyectos prácticos para fortalecer tus habilidades e
 ## 📚 Lista de proyectos
 
 - [01 - Single Page CV](https://roadmap.sh/projects/single-page-cv)
+- [02 - Basic HTML Website](https://roadmap.sh/projects/basic-html-website)
 - [05 - Testimonial Cards](https://roadmap.sh/projects/testimonial-cards)
 - [08 - Image Grid Layout](https://roadmap.sh/projects/image-grid-layout)
 
@@ -24,6 +25,9 @@ Este repositorio contiene proyectos prácticos para fortalecer tus habilidades e
 </p>
 
 <p align="left">
+  <a href='./02-basic-html-website/'>
+    <img width="48%" src="./assets/images/02-basic-html-website.png" alt="Basic HTML website" style="border-radius: 10px;"/>
+  </a>
   <a href='./08-image-grid-layout/'>
     <img width="48%" src="./assets/images/08-image-grid-layout.png" alt="image grid layout" style="border-radius: 10px;" />
   </a>

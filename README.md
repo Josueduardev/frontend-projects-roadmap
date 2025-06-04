@@ -19,7 +19,7 @@ Este repositorio contiene proyectos prácticos para fortalecer tus habilidades e
 > Haz click en la imagen
 <p align="left">
   <a href='./01-single-page-CV/'>
-    <img width="48%" src="./assets/images/01-single-page-cv.png" alt="single page cv" style="border-radius: 10px;" />
+    <img width="48%" src="./assets/images/01-single-page.png" alt="single page cv" style="border-radius: 10px;" />
   </a>
   <a href='./02-basic-html-website/'>
     <img width="48%" src="./assets/images/02-basic-html-website.png" alt="Basic HTML website" style="border-radius: 10px;"/>

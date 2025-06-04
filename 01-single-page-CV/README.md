@@ -38,8 +38,8 @@ El objetivo del proyecto fue crear una página web simple pero bien estructurada
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/Josueduardev/single-page-CV
-   cd single-page-CV
+   git clone https://github.com/Josueduardev/frontend-projects-roadmap
+   cd frontend-projects-roadmap/01-single-page-CV
    ```
 
 --- 

@@ -26,8 +26,8 @@ El enfoque principal fue practicar el posicionamiento y la distribución de elem
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/Josueduardev/05-testimonial-cards
-   cd 05-testimonial-cards
+   git clone https://github.com/Josueduardev/frontend-projects-roadmap
+   cd frontend-projects-roadmap/05-testimonial-cards
    ```
 
 --- 

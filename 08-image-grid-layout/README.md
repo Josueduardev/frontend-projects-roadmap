@@ -25,8 +25,8 @@ El objetivo principal fue practicar el uso de CSS Grid para construir layouts mo
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/Josueduardev/08-image-grid-layout
-   cd 08-image-grid-layout
+   git clone https://github.com/Josueduardev/frontend-projects-roadmap
+   cd frontend-projects-roadmap/08-image-grid-layout
    ```
 
 --- 

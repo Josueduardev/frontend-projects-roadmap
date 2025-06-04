@@ -42,7 +42,7 @@ Este proyecto también incluye uso de **metadatos SEO** y etiquetas OG (Open Gra
 --- 
 
 ## 💻 Preview
-<img src="./images/preview.png" alt="Vista previa de la página" height="700" width="700" />
+<img src="./images/preview.png" alt="Vista previa de la página" height="700" width="900" />
 
 ## 🔗 Enlaces
 [https://www.linkedin.com/in/josueduardogarcia/](https://www.linkedin.com/in/josueduardogarcia/)

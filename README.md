@@ -21,23 +21,23 @@ Este repositorio contiene proyectos prácticos para fortalecer tus habilidades e
   <a href='./01-single-page-CV/'>
     <img width="48%" src="./assets/images/01-single-page-cv.png" alt="single page cv" style="border-radius: 10px;" />
   </a>
-  <a href='./05-testimonial-cards/'>
-    <img width="48%" src="./assets/images/05-testimonials-cards.png" alt="testimonial cards" style="border-radius: 10px;"/>
-  </a>
-</p>
-
-<p align="left">
   <a href='./02-basic-html-website/'>
     <img width="48%" src="./assets/images/02-basic-html-website.png" alt="Basic HTML website" style="border-radius: 10px;"/>
   </a>
+</p>
+
+<p align="left">
   <a href='./03-portfolio/'>
     <img width="48%" src="./assets/images/not-found.png" alt="Not found" style="border-radius: 10px;" />
+  </a>
+  <a href='./04-changelog-component/'>
+    <img width="48%" src="./assets/images/04-changelog-component.png" alt="Changelog component" style="border-radius: 10px;" />
   </a>
 </p>
 
 <p align="left">
-  <a href='./04-changelog-component/'>
-    <img width="48%" src="./assets/images/04-changelog-component.png" alt="Changelog component" style="border-radius: 10px;" />
+  <a href='./05-testimonial-cards/'>
+    <img width="48%" src="./assets/images/05-testimonials-cards.png" alt="testimonial cards" style="border-radius: 10px;"/>
   </a>
   <a href='./08-image-grid-layout/'>
     <img width="48%" src="./assets/images/08-image-grid-layout.png" alt="image grid layout" style="border-radius: 10px;" />
